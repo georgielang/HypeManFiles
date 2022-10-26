@@ -1,0 +1,36 @@
+
+The use of this application requires the accumulation of some information from your user and guild. 
+The adding of this application to your server and subsequent use of this application is an agreement to this.
+
+Access Of Data
+
+The data stored in this application is only accessible to the sole developer. 
+The information stored will never be sold, or shared to any extent.
+The only use of this information is for the development and testing of this application.
+
+Data Stored
+
+This application stores a very limited amount of data and only stores what is required for base functions.
+It stores:
+
+- When a guild has the application (Bot) added to the server, the application holds the guilds ID.
+- When a user has an "intro" set, it stores the user's ID
+
+Storage of Data
+
+The service used to host this application is the same in use to store the data. 
+This provider has built- in protection to stop any third party access to any information.
+Although there is protection there is no guarantee that there won't be a data breach and 
+application developers hold no responsibility for any breaches in security.
+If a data breach happens, all users will be informed ASAP.
+
+Manual Removal of Data
+
+At any time, any user or owner of a guild has a right to join contact the 
+developer of the application to have the date removed, however this will cease functions for that guild.
+To reach the owner, there is a dedicated server that you can join to get in contact with the Devs.
+
+Automatic Removal of Data
+
+As for the application removing data, when the user uses a command to get rid of their "intro", the file will be immediately removed with the user's id.
+Also if this application is removed from a server, the server and all user ID's stored in the servers dedicated files will be removed immediately.
